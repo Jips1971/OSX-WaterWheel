@@ -1,6 +1,7 @@
 
 import SwiftUI
 import Combine
+import AppKit
 
 struct Drop: Identifiable {
     let id = UUID()
